@@ -4,13 +4,13 @@ body {
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
-    background-color: lightseagreen;
+    background-color:#fee1e8;
     color: white;
   }
   
   h1 {
     text-align: center;
-    color: darkslategrey;
+    color: #c9e2bb;
   }
   
   .container {
@@ -19,7 +19,7 @@ body {
     width: 30%;
     margin-left: auto;
     margin-right: auto;
-    background-color: white;
+    background-color: #f56093;
     padding: 30px;
   }
   
@@ -86,9 +86,9 @@ body {
   .btnAdd {
     padding: 5px 15px;
     border: none;
-    color: white;
+    color: #d6e8d9;
     font-family: fantasy;
-    background-color: teal;
+    background-color: #9eddef;
     font-size: 1.4rem;
     outline: none;
   }
